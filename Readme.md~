@@ -7,9 +7,9 @@ A dataset of 2D images containing a driver, performing an activity, are given. A
 ### Dataset Files description
 
 Following are the file descriptions and the URL’s from which files have been obtained.
-* ```Imgs.zip```	           -  A zip file containing all train and test images
-* ```driver_imgs_list.csv```  - A list of training subject ids, class names and respective images.  
-* ```sample_submission.csv``` - A sample format for submission to calculate the evaluation metrics.
+```Imgs.zip```	           -  A zip file containing all train and test images
+```driver_imgs_list.csv```  - A list of training subject ids, class names and respective images.  
+```sample_submission.csv``` - A sample format for submission to calculate the evaluation metrics.
 
  The following link will download a zip file of all above listed files: 
 	https://www.kaggle.com/c/5048/download-all 

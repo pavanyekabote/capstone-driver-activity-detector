@@ -12,7 +12,7 @@ Following are the file descriptions and the URL’s from which files have been o
 * ```sample_submission.csv``` - A sample format for submission to calculate the evaluation metrics.
 
  The following link will download a zip file of all above listed files: 
-	https://www.kaggle.com/c/5048/download-all 
+*	https://www.kaggle.com/c/5048/download-all 
 
 
 

@@ -16,12 +16,13 @@ Following are the file descriptions and the URL’s from which files have been o
 
 
 
-```
 Following are the details of Software environments with version details :
 ```
-• Python 3.6.0 :: Anaconda 4.3.1 (64-bit)
-• Tensorflow 1.1.0
-• Keras 2.0.4
+* Python 3.6.0 :: Anaconda 4.3.1 (64-bit)
+* Tensorflow 1.1.0
+* Keras 2.0.4
+* Numpy 1.15.4
+* Pandas 0.23.4
 ```
 
-- Submissions are available in sub_outs folder, where sub.csv is of CNN from scratch and sub_VGG16 is of VGG16_finetuned model
+Submissions are available in sub_outs folder, where sub.csv is of CNN from scratch and sub_VGG16 is of VGG16_finetuned model

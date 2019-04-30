@@ -24,4 +24,4 @@ Following are the details of Software environments with version details :
 • Keras 2.0.4
 ```
 
-- Submissions are available in sub_outs folder, where sub.csv is of CNN from scratch and sub_VGG16 is of VGG16_finetuned model
+Submissions are available in sub_outs folder, where sub.csv is of CNN from scratch and sub_VGG16 is of VGG16_finetuned model

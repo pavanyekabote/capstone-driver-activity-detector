@@ -16,7 +16,6 @@ Following are the file descriptions and the URL’s from which files have been o
 
 
 
-```
 Following are the details of Software environments with version details :
 ```
 • Python 3.6.0 :: Anaconda 4.3.1 (64-bit)
